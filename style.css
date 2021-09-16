@@ -1,5 +1,6 @@
 nav {
   padding: 2rem;
+  position:fixed;
 }
 .first-img {
   width: 100vw;
