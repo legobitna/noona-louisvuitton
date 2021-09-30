@@ -12,9 +12,9 @@
 * Bootstrap
 * Media Query
 ### Advanced Feature
-* 미디어 쿼리를 이용한 footer 개발 
+* 미디어 쿼리를 이용한 footer 개발 <br>
  _(web 버전)_
-![](https://i.imgur.com/4uqRyU0.png)
+![](https://i.imgur.com/4uqRyU0.png)<br>
  _(모바일 버전)_
 ![](https://i.imgur.com/Clb1bdW.png)
 ```css=
@@ -42,9 +42,9 @@
   margin: 0 0.5rem;
 }
 ```
-* 부트스트랩 Grid를 이용한 반응형 레이아웃 구축
+* 부트스트랩 Grid를 이용한 반응형 레이아웃 구축<br>
  _(web 버전)_
-![](https://i.imgur.com/Z8VL6OC.png)
+![](https://i.imgur.com/Z8VL6OC.png)<br>
  _(모바일 버전)_
 ![](https://i.imgur.com/xHGAWlc.png)
 ```html=
