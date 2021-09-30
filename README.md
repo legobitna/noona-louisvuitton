@@ -13,9 +13,9 @@
 * Media Query
 ### Advanced Feature
 * 미디어 쿼리를 이용한 footer 개발 
-(web 버전)
+ _(web 버전)_
 ![](https://i.imgur.com/4uqRyU0.png)
-(모바일)
+ _(모바일 버전)_
 ![](https://i.imgur.com/Clb1bdW.png)
 ```css=
 @media screen and (max-width: 48rem) {
@@ -43,9 +43,9 @@
 }
 ```
 * 부트스트랩 Grid를 이용한 반응형 레이아웃 구축
-(web 버전)
+ _(web 버전)_
 ![](https://i.imgur.com/Z8VL6OC.png)
-(모바일 버전)
+ _(모바일 버전)_
 ![](https://i.imgur.com/xHGAWlc.png)
 ```html=
  <div class="container pt-5 pb-5">
